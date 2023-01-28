@@ -1,0 +1,706 @@
+,title,date,publisher,url
+0,Proceedings of the Computational Sanskrit \& Digital Humanities: Selected papers presented at the 18th World Sanskrit Conference,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.0
+1,Neural Approaches for Data Driven Dependency Parsing in Sanskrit,2023,None,https://aclanthology.org/2023.wsc-csdh.1
+2,Evaluating Neural Word Embeddings for Sanskrit,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.2
+3,Validation and Normalization of DCS corpus and Development of the Sanskrit Heritage Engine's Segmenter,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.3
+4,Pre-annotation Based Approach for Development of a Sanskrit Named Entity Recognition Dataset,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.4
+5,"Disambiguation of Instrumental, Dative and Ablative Case suffixes in Sanskrit",2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.5
+6,Creation of a Digital Rig Vedic Index (Anukramani) for Computational Linguistic Tasks,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.6
+7,Skrutable: Another Step Toward Effective Sanskrit Meter Identification,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.7
+8,Chandojnanam: A Sanskrit Meter Identification and Utilization System,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.8
+9,Development of a TEI standard for digital Sanskrit texts containing commentaries: A pilot study of Bhaṭṭti's R\=avaṇavadha with Mallin\=atha's commentary on the first canto,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.9
+10,R\=amop\=akhy\=ana: A Web-based reader and index,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.10
+11,Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.11
+12,Shaastra Maps: Enabling Conceptual Exploration of Indic Shaastra Texts,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.12
+13,The Vedic corpus as a graph. An updated version of Bloomfields Vedic Concordance,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.13
+14,The transmission of the Buddha's teachings in the digital age,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.14
+15,Distinguishing Commentary from Canon: Experiments in P\=ali Computational Linguistics,2023,Association for Computational Linguistics,https://aclanthology.org/2023.wsc-csdh.15
+16,Proceedings of the 3rd Wordplay: When Language Meets Games Workshop (Wordplay 2022),2022,Association for Computational Linguistics,https://aclanthology.org/2022.wordplay-1.0
+17,A Systematic Survey of Text Worlds as Embodied Natural Language Environments,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wordplay-1.1
+18,A Minimal Computational Improviser Based on Oral Thought,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wordplay-1.2
+19,Craft an Iron Sword: Dynamically Generating Interactive Game Characters by Prompting Large Language Models Tuned on Code,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wordplay-1.3
+20,A Sequence Modelling Approach to Question Answering in Text-Based Games,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wordplay-1.4
+21,Automatic Exploration of Textual Environments with Language-Conditioned Autotelic Agents,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wordplay-1.5
+22,Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH),2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.0
+23,Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.1
+24,Towards Automatic Generation of Messages Countering Online Hate Speech and Microaggressions,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.2
+25,GreaseVision: Rewriting the Rules of the Interface,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.3
+26,Improving Generalization of Hate Speech Detection Systems to Novel Target Groups via Domain Adaptation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.4
+27,``Zo Grof !'': A Comprehensive Corpus for Offensive and Abusive Language in Dutch,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.5
+28,Counter-TWIT: An Italian Corpus for Online Counterspeech in Ecological Contexts,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.6
+29,StereoKG: Data-Driven Knowledge Graph Construction For Cultural Knowledge and Stereotypes,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.7
+30,The subtle language of exclusion: Identifying the Toxic Speech of Trans-exclusionary Radical Feminists,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.8
+31,Lost in Distillation: A Case Study in Toxicity Modeling,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.9
+32,Cleansing \& expanding the HURTLEX(el) with a multidimensional categorization of offensive words,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.10
+33,Free speech or Free Hate Speech? Analyzing the Proliferation of Hate Speech in Parler,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.11
+34,Resources for Multilingual Hate Speech Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.12
+35,Enriching Abusive Language Detection with Community Context,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.13
+36,DeTox: A Comprehensive Dataset for German Offensive Language and Conversation Analysis,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.14
+37,Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.15
+38,Distributional properties of political dogwhistle representations in Swedish BERT,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.16
+39,Hate Speech Criteria: A Modular Approach to Task-Specific Hate Speech Definitions,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.17
+40,Accounting for Offensive Speech as a Practice of Resistance,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.18
+41,Towards a Multi-Entity Aspect-Based Sentiment Analysis for Characterizing Directed Social Regard in Online Messaging,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.19
+42,Flexible text generation for counterfactual fairness probing,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.20
+43,Users Hate Blondes: Detecting Sexism in User Comments on Online Romanian News,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.21
+44,Targeted Identity Group Prediction in Hate Speech Corpora,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.22
+45,Revisiting Queer Minorities in Lexicons,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.23
+46,HATE-ITA: Hate Speech Detection in Italian Social Media Text,2022,Association for Computational Linguistics,https://aclanthology.org/2022.woah-1.24
+47,Proceedings of the Eighth Workshop on Noisy User-generated Text (W-NUT 2022),2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.0
+48,Changes in Tweet Geolocation over Time: A Study with Carmen 2.0,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.1
+49,Extracting Mathematical Concepts from Text,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.2
+50,Data-driven Approach to Differentiating between Depression and Dementia from Noisy Speech and Language Data,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.3
+51,Cross-Dialect Social Media Dependency Parsing for Social Scientific Entity Attribute Analysis,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.4
+52,Impact of Environmental Noise on Alzheimer's Disease Detection from Speech: Should You Let a Baby Cry?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.5
+53,Exploring Multimodal Features and Fusion Strategies for Analyzing Disaster Tweets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.6
+54,NTULM: Enriching Social Media Text Representations with Non-Textual Units,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.7
+55,Robust Candidate Generation for Entity Linking on Short Social Media Texts,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.8
+56,TransPOS: Transformers for Consolidating Different POS Tagset Datasets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.9
+57,"An Effective, Performant Named Entity Recognition System for Noisy Business Telephone Conversation Transcripts",2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.10
+58,Leveraging Semantic and Sentiment Knowledge for User-Generated Text Sentiment Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.11
+59,An Emotional Journey: Detecting Emotion Trajectories in Dutch Customer Service Dialogues,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.12
+60,Supervised and Unsupervised Evaluation of Synthetic Code-Switching,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.13
+61,ArabGend: Gender Analysis and Inference on Arabic Twitter,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.14
+62,Automatic Identification of 5C Vaccine Behaviour on Social Media,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.15
+63,Automatic Extraction of Structured Mineral Drillhole Results from Unstructured Mining Company Reports,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.16
+64,``Kanglish alli names!'' Named Entity Recognition for Kannada-English Code-Mixed Social Media Data,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.17
+65,Span Extraction Aided Improved Code-mixed Sentiment Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.18
+66,AdBERT: An Effective Few Shot Learning Framework for Aligning Tweets to Superbowl Advertisements,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.19
+67,Increasing Robustness for Cross-domain Dialogue Act Classification on Social Media Data,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.20
+68,Disfluency Detection for Vietnamese,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.21
+69,A multi-level approach for hierarchical Ticket Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.22
+70,Towards better structured and less noisy Web data: Oscar with Register annotations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.23
+71,True or False? Detecting False Information on Social Media Using Graph Neural Networks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.24
+72,Analyzing the Real Vulnerability of Hate Speech Detection Systems against Targeted Intentional Noise,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnut-1.25
+73,Proceedings of the 4th Workshop of Narrative Understanding (WNU2022),2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.0
+74,Uncovering Surprising Event Boundaries in Narratives,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.1
+75,Compositional Generalization for Kinship Prediction through Data Augmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.2
+76,How to be Helpful on Online Support Forums?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.3
+77,GPT-2-based Human-in-the-loop Theatre Play Script Generation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.4
+78,GisPy: A Tool for Measuring Gist Inference Score in Text,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.5
+79,"Heroes, Villains, and Victims, and GPT-3: Automated Extraction of Character Roles Without Training Data",2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.6
+80,Narrative Detection and Feature Analysis in Online Health Communities,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.7
+81,Looking from the Inside: How Children Render Character's Perspectives in Freely Told Fantasy Stories,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wnu-1.8
+82,Proceedings of the 2nd Workshop on Deriving Insights from User-Generated Text,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wit-1.0
+83,Unsupervised Abstractive Dialogue Summarization with Word Graphs and POV Conversion,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wit-1.1
+84,An Interactive Analysis of User-reported Long COVID Symptoms using Twitter Data,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wit-1.2
+85,Bi-Directional Recurrent Neural Ordinary Differential Equations for Social Media Text Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wit-1.3
+86,Proceedings of the WILDRE-6 Workshop within the 13th Language Resources and Evaluation Conference,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.0
+87,Introducing EM-FT for Manipuri-English Neural Machine Translation,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.1
+88,L3Cube-HingCorpus and HingBERT: A Code Mixed Hindi-English Dataset and BERT Language Models,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.2
+89,Leveraging Sub Label Dependencies in Code Mixed Indian Languages for Part-Of-Speech Tagging using Conditional Random Fields.,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.3
+90,HindiWSD: A package for word sense disambiguation in Hinglish \& Hindi,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.4
+91,P\=aṇinian Phonological Changes: Computation and Development of Online Access System,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.5
+92,L3Cube-MahaNER: A Marathi Named Entity Recognition Dataset and BERT models,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.6
+93,Identifying Emotions in Code Mixed Hindi-English Tweets,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.7
+94,Digital Accessibility and Information Mining of Dharma\'s\=astric Knowledge Traditions,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.8
+95,Language Resource Building and English-to-Mizo Neural Machine Translation Encountering Tonal Words,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.9
+96,Classification of Multiword Expressions in Malayalam,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.10
+97,Bengali and Magahi PUD Treebank and Parser,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.11
+98,Makadi: A Large-Scale Human-Labeled Dataset for Hindi Semantic Parsing,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.12
+99,Automatic Identification of Explicit Connectives in Malayalam,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.13
+100,Web based System for Derivational Process of Kṛdanta based on P\=aṇinian Grammatical Tradition,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.14
+101,Universal Dependency Treebank for Odia Language,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.15
+102,Computational Referencing System for Sanskrit Grammar,2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.16
+103,"L3Cube-MahaCorpus and MahaBERT: Marathi Monolingual Corpus, Marathi BERT Language Models, and Resources",2022,European Language Resources Association,https://aclanthology.org/2022.wildre-1.17
+104,Proceedings of the first Workshop on Information Extraction from Scientific Publications,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.0
+105,Overview of the First Shared Task on Detecting Entities in the Astrophysics Literature (DEAL),2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.1
+106,Classification of URL Citations in Scholarly Papers for Promoting Utilization of Research Artifacts,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.2
+107,TELIN: Table Entity LINker for Extracting Leaderboards from Machine Learning Publications,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.3
+108,PICO Corpus: A Publicly Available Corpus to Support Automatic Data Extraction from Biomedical Literature,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.4
+109,Linking a Hypothesis Network From the Domain of Invasion Biology to a Corpus of Scientific Abstracts: The INAS Dataset,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.5
+110,Leveraging knowledge graphs to update scientific word embeddings using latent semantic imputation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.6
+111,Full-Text Argumentation Mining on Scientific Publications,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.7
+112,On the portability of extractive Question-Answering systems on scientific papers to real-life application scenarios,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.8
+113,Detecting Entities in the Astrophysics Literature: A Comparison of Word-based and Span-based Entity Recognition Methods,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.9
+114,Domain Specific Augmentations as Low Cost Teachers for Large Students,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.10
+115,Moving beyond word lists: towards abstractive topic labels for human-like topics of scientific documents,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.11
+116,Astro-mT5: Entity Extraction from Astrophysics Literature using mT5 Language Model,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.12
+117,NLPSharedTasks: A Corpus of Shared Task Overview Papers in Natural Language Processing Domains,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.13
+118,Parsing Electronic Theses and Dissertations Using Object Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.14
+119,"TDAC, The First Corpus in Time-Domain Astrophysics: Analysis and First Experiments on Named Entity Recognition",2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.15
+120,Reproducibility Signals in Science: A preliminary analysis,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.16
+121,A Majority Voting Strategy of a SciBERT-based Ensemble Models for Detecting Entities in the Astrophysics Literature (Shared Task),2022,Association for Computational Linguistics,https://aclanthology.org/2022.wiesp-1.17
+122,Proceedings of the 9th Workshop on Asian Translation,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.0
+123,Overview of the 9th Workshop on Asian Translation,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.1
+124,Comparing BERT-based Reward Functions for Deep Reinforcement Learning in Machine Translation,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.2
+125,Improving Jejueo-Korean Translation With Cross-Lingual Pretraining Using Japanese and Korean,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.3
+126,TMU NMT System with Automatic Post-Editing by Multi-Source Levenshtein Transformer for the Restricted Translation Task of WAT 2022,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.4
+127,HwTscSU's Submissions on WAT 2022 Shared Task,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.5
+128,NICT's Submission to the WAT 2022 Structured Document Translation Task,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.6
+129,Rakuten's Participation in WAT 2022: Parallel Dataset Filtering by Leveraging Vocabulary Heterogeneity,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.7
+130,NIT Rourkela Machine Translation(MT) System Submission to WAT 2022 for MultiIndicMT: An Indic Language Multilingual Shared Task,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.8
+131,Investigation of Multilingual Neural Machine Translation for Indian Languages,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.9
+132,Does partial pretranslation can improve low ressourced-languages pairs?,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.10
+133,Multimodal Neural Machine Translation with Search Engine Based Image Retrieval,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.11
+134,Silo NLP's Participation at WAT2022,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.12
+135,PICT@WAT 2022: Neural Machine Translation Systems for Indic Languages,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.13
+136,English to Bengali Multimodal Neural Machine Translation using Transliteration-based Phrase Pairs Augmentation,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.14
+137,Investigation of English to Hindi Multimodal Neural Machine Translation using Transliteration-based Phrase Pairs Augmentation,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.wat-1.15
+138,"Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment \& Social Media Analysis",2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.0
+139,On the Complementarity of Images and Text for the Expression of Emotions in Social Media,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.1
+140,Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.2
+141,Domain-Aware Contrastive Knowledge Transfer for Multi-domain Imbalanced Data,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.3
+142,``splink'' is happy and ``phrouth'' is scary: Emotion Intensity Analysis for Nonsense Words,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.4
+143,SentEMO: A Multilingual Adaptive Platform for Aspect-based Sentiment and Emotion Analysis,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.5
+144,Can Emotion Carriers Explain Automatic Sentiment Prediction? A Study on Personal Narratives,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.6
+145,Infusing Knowledge from Wikipedia to Enhance Stance Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.7
+146,Uncertainty Regularized Multi-Task Learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.8
+147,Evaluating Contextual Embeddings and their Extraction Layers for Depression Assessment,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.9
+148,Emotion Analysis of Writers and Readers of Japanese Tweets on Vaccinations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.10
+149,Opinion-based Relational Pivoting for Cross-domain Aspect Term Extraction,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.11
+150,English-Malay Word Embeddings Alignment for Cross-lingual Emotion Classification with Hierarchical Attention Network,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.12
+151,Assessment of Massively Multilingual Sentiment Classifiers,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.13
+152,Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.14
+153,Distinguishing In-Groups and Onlookers by Language Use,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.15
+154,Irony Detection for Dutch: a Venture into the Implicit,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.16
+155,Pushing on Personality Detection from Verbal Behavior: A Transformer Meets Text Contours of Psycholinguistic Features,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.17
+156,XLM-EMO: Multilingual Emotion Prediction in Social Media Text,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.18
+157,Evaluating Content Features and Classification Methods for Helpfulness Prediction of Online Reviews: Establishing a Benchmark for Portuguese,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.19
+158,"WASSA 2022 Shared Task: Predicting Empathy, Emotion and Personality in Reaction to News Stories",2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.20
+159,IUCL at WASSA 2022 Shared Task: A Text-only Approach to Empathy and Emotion Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.21
+160,Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.22
+161,Empathy and Distress Prediction using Transformer Multi-output Regression and Emotion Analysis with an Ensemble of Supervised and Zero-Shot Learning Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.23
+162,Leveraging Emotion-Specific features to improve Transformer performance for Emotion Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.24
+163,Transformer based ensemble for emotion detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.25
+164,"Team IITP-AINLPML at WASSA 2022: Empathy Detection, Emotion Classification and Personality Detection",2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.26
+165,Transformer-based Architecture for Empathy Prediction and Emotion Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.27
+166,Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.28
+167,"SURREY-CTS-NLP at WASSA2022: An Experiment of Discourse and Sentiment Analysis for the Prediction of Empathy, Distress and Emotion",2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.29
+168,An Ensemble Approach to Detect Emotions at an Essay Level,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.30
+169,CAISA at WASSA 2022: Adapter-Tuning for Empathy Prediction,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.31
+170,NLPOP: a Dataset for Popularity Prediction of Promoted NLP Research on Twitter,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.32
+171,Tagging Without Rewriting: A Probabilistic Model for Unpaired Sentiment and Style Transfer,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.33
+172,Polite Task-oriented Dialog Agents: To Generate or to Rewrite?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.34
+173,Items from Psychometric Tests as Training Data for Personality Profiling Models of Twitter Users,2022,Association for Computational Linguistics,https://aclanthology.org/2022.wassa-1.35
+174,"Proceedings of the Ninth Workshop on NLP for Similar Languages, Varieties and Dialects",2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.0
+175,Findings of the VarDial Evaluation Campaign 2022,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.1
+176,Social Context and User Profiles of Linguistic Variation on a Micro Scale,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.2
+177,dialectR: Doing Dialectometry in R,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.3
+178,Low-Resource Neural Machine Translation: A Case Study of Cantonese,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.4
+179,"Phonetic, Semantic, and Articulatory Features in Assamese-Bengali Cognate Detection",2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.5
+180,Mapping Phonology to Semantics: A Computational Model of Cross-Lingual Spoken-Word Recognition,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.6
+181,Annotating Norwegian language varieties on Twitter for Part-of-speech,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.7
+182,OcWikiDisc: a Corpus of Wikipedia Talk Pages in Occitan,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.8
+183,Is Encoder-Decoder Transformer the Shiny Hammer?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.9
+184,The Curious Case of Logistic Regression for Italian Languages and Dialects Identification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.10
+185,Neural Networks for Cross-domain Language Identification. Phlyers @Vardial 2022,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.11
+186,Transfer Learning Improves French Cross-Domain Dialect Identification: NRC @ VarDial 2022,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.12
+187,Italian Language and Dialect Identification and Regional French Variety Detection using Adaptive Naive Bayes,2022,Association for Computational Linguistics,https://aclanthology.org/2022.vardial-1.13
+188,Proceedings of the Second Workshop on Understanding Implicit and Underspecified Language,2022,Association for Computational Linguistics,https://aclanthology.org/2022.unimplicit-1.0
+189,Pre-trained Language Models' Interpretation of Evaluativity Implicature: Evidence from Gradable Adjectives Usage in Context,2022,Association for Computational Linguistics,https://aclanthology.org/2022.unimplicit-1.1
+190,Pragmatic and Logical Inferences in NLI Systems: The Case of Conjunction Buttressing,2022,Association for Computational Linguistics,https://aclanthology.org/2022.unimplicit-1.2
+191,``Devils Are in the Details'': Annotating Specificity of Clinical Advice from Medical Literature,2022,Association for Computational Linguistics,https://aclanthology.org/2022.unimplicit-1.3
+192,Searching for PETs: Using Distributional and Sentiment-Based Methods to Find Potentially Euphemistic Terms,2022,Association for Computational Linguistics,https://aclanthology.org/2022.unimplicit-1.4
+193,Proceedings of the Universal Dependencies Brazilian Festival,2022,Association for Computational Linguistics,https://aclanthology.org/2022.udfestbr-1.0
+194,Anota\cc\~ao de textos n\~ao can\^onicos: um estudo exploratorio de Grande sert\~ao: veredas pelas depend\^encias universais,2022,Association for Computational Linguistics,https://aclanthology.org/2022.udfestbr-1.1
+195,Polishing the gold -- how much revision do we need in treebanks?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.udfestbr-1.2
+196,Que simples que nada: a anota\cc\~ao da palavra que em corpus de UD,2022,Association for Computational Linguistics,https://aclanthology.org/2022.udfestbr-1.3
+197,Shallow parsing of Portuguese texts annotated under Universal Dependencies,2022,Association for Computational Linguistics,https://aclanthology.org/2022.udfestbr-1.4
+198,Still on arguments and adjuncts: the status of the indirect object and the adverbial adjunct relations in Universal Dependencies for Portuguese,2022,Association for Computational Linguistics,https://aclanthology.org/2022.udfestbr-1.5
+199,UDConcord: A Concordancer for Universal Dependencies Treebanks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.udfestbr-1.6
+200,Proceedings of the First Workshop On Transcript Understanding,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.tu-1.0
+201,Leveraging Non-dialogue Summaries for Dialogue Summarization,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.tu-1.1
+202,Knowledge Transfer with Visual Prompt in multi-modal Dialogue Understanding and Generation,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.tu-1.2
+203,Model Transfer for Event tracking as Transcript Understanding for Videos of Small Group Interaction,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.tu-1.3
+204,BehanceMT: A Machine Translation Corpus for Livestreaming Video Transcripts,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.tu-1.4
+205,Investigating the Impact of ASR Errors on Spoken Implicit Discourse Relation Recognition,2022,International Conference on Computational Linguistics,https://aclanthology.org/2022.tu-1.5
+206,Proceedings of the 2nd Workshop on Trustworthy Natural Language Processing (TrustNLP 2022),2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.0
+207,An Encoder Attribution Analysis for Dense Passage Retriever in Open-Domain Question Answering,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.1
+208,Attributing Fair Decisions with Attention Interventions,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.2
+209,Does Moral Code have a Moral Code? Probing Delphi's Moral Philosophy,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.3
+210,The Cycle of Trust and Responsibility in Outsourced AI,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.4
+211,Explaining Neural NLP Models for the Joint Analysis of Open-and-Closed-Ended Survey Answers,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.5
+212,The Irrationality of Neural Rationale Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.6
+213,An Empirical Study on Pseudo-log-likelihood Bias Measures for Masked Language Models Using Paraphrased Sentences,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.7
+214,Challenges in Applying Explainability Methods to Improve the Fairness of NLP Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trustnlp-1.8
+215,"Proceedings of the Third Workshop on Threat, Aggression and Cyberbullying (TRAC 2022)",2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.0
+216,L3Cube-MahaHate: A Tweet-based Marathi Hate Speech Detection Dataset and BERT Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.1
+217,Which One Is More Toxic? Findings from Jigsaw Rate Severity of Toxic Comments,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.2
+218,Can Attention-based Transformers Explain or Interpret Cyberbullying Detection?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.3
+219,"Bias, Threat and Aggression Identification Using Machine Learning Techniques on Multilingual Comments",2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.4
+220,The Role of Context in Detecting the Target of Hate Speech,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.5
+221,Annotating Targets of Toxic Language at the Span Level,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.6
+222,Is More Data Better? Re-thinking the Importance of Efficiency in Abusive Language Detection with Transformers-Based Active Learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.7
+223,A Lightweight Yet Robust Approach to Textual Anomaly Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.8
+224,Detection of Negative Campaign in Israeli Municipal Elections,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.9
+225,Hypothesis Engineering for Zero-Shot Hate Speech Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.trac-1.10
+226,Proceedings of TextGraphs-16: Graph-based Methods for Natural Language Processing,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.0
+227,Multilevel Hypernode Graphs for Effective and Efficient Entity Linking,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.1
+228,Cross-Modal Contextualized Hidden State Projection Method for Expanding of Taxonomic Graphs,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.2
+229,Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.3
+230,A Clique-based Graphical Approach to Detect Interpretable Adjectival Senses in Hungarian,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.4
+231,GUSUM: Graph-based Unsupervised Summarization Using Sentence Features Scoring and Sentence-BERT,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.5
+232,The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.6
+233,Text-Aware Graph Embeddings for Donation Behavior Prediction,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.7
+234,Word Sense Disambiguation of French Lexicographical Examples Using Lexical Networks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.8
+235,RuDSI: Graph-based Word Sense Induction Dataset for Russian,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.9
+236,Temporal Graph Analysis of Misinformation Spreaders in Social Media,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.10
+237,TextGraphs 2022 Shared Task on Natural Language Premise Selection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.11
+238,IJS at TextGraphs-16 Natural Language Premise Selection Task: Will Contextual Information Improve Natural Language Premise Selection?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.12
+239,SNLP at TextGraphs 2022 Shared Task: Unsupervised Natural Language Premise Selection in Mathematical Texts Using Sentence-MPNet,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.13
+240,Keyword-based Natural Language Premise Selection for an Automatic Mathematical Statement Proving,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.14
+241,TextGraphs-16 Natural Language Premise Selection Task: Zero-Shot Premise Selection with Prompting Generative Language Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.textgraphs-1.15
+242,"Proceedings of the Workshop on Terminology in the 21st century: many faces, many places",2022,European Language Resources Association,https://aclanthology.org/2022.term-1.0
+243,Lexicon-driven approach for Terminology: specialized resources on the environment in Brazilian Portuguese,2022,European Language Resources Association,https://aclanthology.org/2022.term-1.1
+244,Knowledge Representation and Language Simplification of Human Rights,2022,European Language Resources Association,https://aclanthology.org/2022.term-1.2
+245,Converting from the Nordic Terminological Record Format to the TBX Format,2022,European Language Resources Association,https://aclanthology.org/2022.term-1.3
+246,A Dataset for Term Extraction in Hindi,2022,European Language Resources Association,https://aclanthology.org/2022.term-1.4
+247,Terminology extraction using co-occurrence patterns as predictors of semantic relevance,2022,European Language Resources Association,https://aclanthology.org/2022.term-1.5
+248,Evaluating Pre-Trained Language Models for Focused Terminology Extraction from Swedish Medical Records,2022,European Language Resources Association,https://aclanthology.org/2022.term-1.6
+249,D-Terminer: Online Demo for Monolingual and Bilingual Automatic Term Extraction,2022,European Language Resources Association,https://aclanthology.org/2022.term-1.7
+250,Proceedings of the Workshop Towards Digital Language Equality within the 13th Language Resources and Evaluation Conference,2022,European Language Resources Association,https://aclanthology.org/2022.tdle-1.0
+251,Introducing the Digital Language Equality Metric: Technological Factors,2022,European Language Resources Association,https://aclanthology.org/2022.tdle-1.1
+252,Introducing the Digital Language Equality Metric: Contextual Factors,2022,European Language Resources Association,https://aclanthology.org/2022.tdle-1.2
+253,Collaborative Metadata Aggregation and Curation in Support of Digital Language Equality Monitoring,2022,European Language Resources Association,https://aclanthology.org/2022.tdle-1.3
+254,Measuring HLT Research Equality of European Languages,2022,European Language Resources Association,https://aclanthology.org/2022.tdle-1.4
+255,National Language Technology Platform for Public Administration,2022,European Language Resources Association,https://aclanthology.org/2022.tdle-1.5
+256,The N\'os Project: Opening routes for the Galician language in the field of language technologies,2022,European Language Resources Association,https://aclanthology.org/2022.tdle-1.6
+257,Word Acquisition in Neural Language Models,2022,MIT Press,https://aclanthology.org/2022.tacl-1.1
+258,Decomposing and Recomposing Event Structure,2022,MIT Press,https://aclanthology.org/2022.tacl-1.2
+259,FeTaQA: Free-form Table Question Answering,2022,MIT Press,https://aclanthology.org/2022.tacl-1.3
+260,Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets,2022,MIT Press,https://aclanthology.org/2022.tacl-1.4
+261,Canine: Pre-training an Efficient Tokenization-Free Encoder for Language Representation,2022,MIT Press,https://aclanthology.org/2022.tacl-1.5
+262,Dealing with Disagreements: Looking Beyond the Majority Vote in Subjective Annotations,2022,MIT Press,https://aclanthology.org/2022.tacl-1.6
+263,"Break, Perturb, Build: Automatic Perturbation of Reasoning Paths Through Question Decomposition",2022,MIT Press,https://aclanthology.org/2022.tacl-1.7
+264,Out-of-Domain Discourse Dependency Parsing via Bootstrapping: An Empirical Analysis on Its Effectiveness and Limitation,2022,MIT Press,https://aclanthology.org/2022.tacl-1.8
+265,Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages,2022,MIT Press,https://aclanthology.org/2022.tacl-1.9
+266,SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization,2022,MIT Press,https://aclanthology.org/2022.tacl-1.10
+267,A Survey on Automated Fact-Checking,2022,MIT Press,https://aclanthology.org/2022.tacl-1.11
+268,Predicting Document Coverage for Relation Extraction,2022,MIT Press,https://aclanthology.org/2022.tacl-1.12
+269,ABNIRML: Analyzing the Behavior of Neural IR Models,2022,MIT Press,https://aclanthology.org/2022.tacl-1.13
+270,Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference,2022,MIT Press,https://aclanthology.org/2022.tacl-1.14
+271,Time-Aware Language Models as Temporal Knowledge Bases,2022,MIT Press,https://aclanthology.org/2022.tacl-1.15
+272,Multilingual Autoregressive Entity Linking,2022,MIT Press,https://aclanthology.org/2022.tacl-1.16
+273,ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models,2022,MIT Press,https://aclanthology.org/2022.tacl-1.17
+274,Designing an Automatic Agent for Repeated Language--based Persuasion Games,2022,MIT Press,https://aclanthology.org/2022.tacl-1.18
+275,Towards General Natural Language Understanding with Probabilistic Worldbuilding,2022,MIT Press,https://aclanthology.org/2022.tacl-1.19
+276,A Multi-Level Optimization Framework for End-to-End Text Augmentation,2022,MIT Press,https://aclanthology.org/2022.tacl-1.20
+277,Evaluating Explanations: How Much Do Explanations from the Teacher Aid Students?,2022,MIT Press,https://aclanthology.org/2022.tacl-1.21
+278,VILA: Improving Structured Content Extraction from Scientific PDFs Using Visual Layout Groups,2022,MIT Press,https://aclanthology.org/2022.tacl-1.22
+279,Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation,2022,MIT Press,https://aclanthology.org/2022.tacl-1.23
+280,PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains,2022,MIT Press,https://aclanthology.org/2022.tacl-1.24
+281,LOT: A Story-Centric Benchmark for Evaluating Chinese Long Text Understanding and Generation,2022,MIT Press,https://aclanthology.org/2022.tacl-1.25
+282,Czech Grammar Error Correction with a Large and Diverse Corpus,2022,MIT Press,https://aclanthology.org/2022.tacl-1.26
+283,TopiOCQA: Open-domain Conversational Question Answering with Topic Switching,2022,MIT Press,https://aclanthology.org/2022.tacl-1.27
+284,A Neighborhood Framework for Resource-Lean Content Flagging,2022,MIT Press,https://aclanthology.org/2022.tacl-1.28
+285,"Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval",2022,MIT Press,https://aclanthology.org/2022.tacl-1.29
+286,The Flores-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation,2022,MIT Press,https://aclanthology.org/2022.tacl-1.30
+287,♫ MuSiQue: Multihop Questions via Single-hop Question Composition,2022,MIT Press,https://aclanthology.org/2022.tacl-1.31
+288,Relational Memory-Augmented Language Models,2022,MIT Press,https://aclanthology.org/2022.tacl-1.32
+289,Sentence Similarity Based on Contexts,2022,MIT Press,https://aclanthology.org/2022.tacl-1.33
+290,It's not Rocket Science: Interpreting Figurative Language in Narratives,2022,MIT Press,https://aclanthology.org/2022.tacl-1.34
+291,Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference,2022,MIT Press,https://aclanthology.org/2022.tacl-1.35
+292,Document Summarization with Latent Queries,2022,MIT Press,https://aclanthology.org/2022.tacl-1.36
+293,End-to-end Argument Mining with Cross-corpora Multi-task Learning,2022,MIT Press,https://aclanthology.org/2022.tacl-1.37
+294,Is My Model Using the Right Evidence? Systematic Probes for Examining Evidence-Based Tabular Reasoning,2022,MIT Press,https://aclanthology.org/2022.tacl-1.38
+295,Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression,2022,MIT Press,https://aclanthology.org/2022.tacl-1.39
+296,Data-to-text Generation with Variational Sequential Planning,2022,MIT Press,https://aclanthology.org/2022.tacl-1.40
+297,True Few-Shot Learning with Prompts---A Real-World Perspective,2022,MIT Press,https://aclanthology.org/2022.tacl-1.41
+298,Heterogeneous Supervised Topic Models,2022,MIT Press,https://aclanthology.org/2022.tacl-1.42
+299,Fact Checking with Insufficient Evidence,2022,MIT Press,https://aclanthology.org/2022.tacl-1.43
+300,Text-based NP Enrichment,2022,MIT Press,https://aclanthology.org/2022.tacl-1.44
+301,Minimum Description Length Recurrent Neural Networks,2022,MIT Press,https://aclanthology.org/2022.tacl-1.45
+302,Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity,2022,MIT Press,https://aclanthology.org/2022.tacl-1.46
+303,High Quality Rather than High Model Probability: Minimum Bayes Risk Decoding with Neural Metrics,2022,MIT Press,https://aclanthology.org/2022.tacl-1.47
+304,"Generate, Annotate, and Learn: NLP with Synthetic Text",2022,MIT Press,https://aclanthology.org/2022.tacl-1.48
+305,Saturated Transformers are Constant-Depth Threshold Circuits,2022,MIT Press,https://aclanthology.org/2022.tacl-1.49
+306,Reducing Conversational Agents' Overconfidence Through Linguistic Calibration,2022,MIT Press,https://aclanthology.org/2022.tacl-1.50
+307,A Survey of Text Games for Reinforcement Learning Informed by Natural Language,2022,MIT Press,https://aclanthology.org/2022.tacl-1.51
+308,Dependency Parsing with Backtracking using Deep Reinforcement Learning,2022,MIT Press,https://aclanthology.org/2022.tacl-1.52
+309,Temporal Effects on Pre-trained Models for Language Processing Tasks,2022,MIT Press,https://aclanthology.org/2022.tacl-1.53
+310,Learning English with Peppa Pig,2022,MIT Press,https://aclanthology.org/2022.tacl-1.54
+311,Compositional Generalization in Multilingual Semantic Parsing over Wikidata,2022,MIT Press,https://aclanthology.org/2022.tacl-1.55
+312,Adapting to the Long Tail: A Meta-Analysis of Transfer Learning Research for Language Understanding Tasks,2022,MIT Press,https://aclanthology.org/2022.tacl-1.56
+313,How to Dissect a Muppet: The Structure of Transformer Embedding Spaces,2022,MIT Press,https://aclanthology.org/2022.tacl-1.57
+314,On Decoding Strategies for Neural Text Generators,2022,MIT Press,https://aclanthology.org/2022.tacl-1.58
+315,ProoFVer: Natural Logic Theorem Proving for Fact Verification,2022,MIT Press,https://aclanthology.org/2022.tacl-1.59
+316,Structural Persistence in Language Models: Priming as a Window into Abstract Language Representations,2022,MIT Press,https://aclanthology.org/2022.tacl-1.60
+317,DP-Parse: Finding Word Boundaries from Raw Speech with an Instance Lexicon,2022,MIT Press,https://aclanthology.org/2022.tacl-1.61
+318,Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark,2022,MIT Press,https://aclanthology.org/2022.tacl-1.62
+319,Modeling Non-Cooperative Dialogue: Theoretical and Empirical Insights,2022,MIT Press,https://aclanthology.org/2022.tacl-1.63
+320,Diff-Explainer: Differentiable Convex Optimization for Explainable Multi-hop Inference,2022,MIT Press,https://aclanthology.org/2022.tacl-1.64
+321,Getting BART to Ride the Idiomatic Train: Learning to Represent Idiomatic Expressions,2022,MIT Press,https://aclanthology.org/2022.tacl-1.65
+322,"Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond",2022,MIT Press,https://aclanthology.org/2022.tacl-1.66
+323,Learning Fair Representations via Rate-Distortion Maximization,2022,MIT Press,https://aclanthology.org/2022.tacl-1.67
+324,Robust Dialogue State Tracking with Weak Supervision and Sparse Data,2022,MIT Press,https://aclanthology.org/2022.tacl-1.68
+325,Unit Testing for Concepts in Neural Networks,2022,MIT Press,https://aclanthology.org/2022.tacl-1.69
+326,Multi-task Active Learning for Pre-trained Transformer-based Models,2022,MIT Press,https://aclanthology.org/2022.tacl-1.70
+327,Template-based Abstractive Microblog Opinion Summarization,2022,MIT Press,https://aclanthology.org/2022.tacl-1.71
+328,Meta-Learning the Difference: Preparing Large Language Models for Efficient Adaptation,2022,MIT Press,https://aclanthology.org/2022.tacl-1.72
+329,Compositional Evaluation on Japanese Textual Entailment and Similarity,2022,MIT Press,https://aclanthology.org/2022.tacl-1.73
+330,Neuron-level Interpretation of Deep NLP Models: A Survey,2022,MIT Press,https://aclanthology.org/2022.tacl-1.74
+331,Proceedings of the First Workshop on Scaling Up Multilingual Evaluation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sumeval-1.0
+332,The SUMEval 2022 Shared Task on Performance Prediction of Multilingual Pre-trained Language Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sumeval-1.1
+333,To Train or Not to Train: Predicting the Performance of Massively Multilingual Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sumeval-1.2
+334,The GMU System Submission for the SUMEval 2022 Shared Task,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sumeval-1.3
+335,NTREX-128 -- News Test References for MT Evaluation of 128 Languages,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sumeval-1.4
+336,IndoRobusta: Towards Robustness Against Diverse Code-Mixed Indonesian Local Languages,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sumeval-1.5
+337,Proceedings of the Workshop on Structured and Unstructured Knowledge Integration (SUKI),2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.0
+338,FabKG: A Knowledge graph of Manufacturing Science domain utilizing structured and unconventional unstructured knowledge source,2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.1
+339,Modeling Compositionality with Dependency Graph for Dialogue Generation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.2
+340,Strategies to Improve Few-shot Learning for Intent Classification and Slot-Filling,2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.3
+341,Learning Open Domain Multi-hop Search Using Reinforcement Learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.4
+342,Table Retrieval May Not Necessitate Table-specific Model Design,2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.5
+343,Transfer Learning and Masked Generation for Answer Verbalization,2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.6
+344,Knowledge Transfer between Structured and Unstructured Sources for Complex Question Answering,2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.7
+345,Hierarchical Control of Situated Agents through Natural Language,2022,Association for Computational Linguistics,https://aclanthology.org/2022.suki-1.8
+346,Proceedings of the 11th Joint Conference on Lexical and Computational Semantics,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.0
+347,What do Large Language Models Learn about Scripts?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.1
+348,DeepA2: A Modular Framework for Deep Argument Analysis with Pretrained Neural Text2Text Language Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.2
+349,Semantics-aware Attention Improves Neural Machine Translation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.3
+350,Compositional generalization with a broad-coverage semantic parser,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.4
+351,AnaLog: Testing Analytical and Deductive Logic Learnability in Language Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.5
+352,Pairwise Representation Learning for Event Coreference,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.6
+353,A Simple Unsupervised Approach for Coreference Resolution using Rule-based Weak Supervision,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.7
+354,Multilingual Extraction and Categorization of Lexical Collocations with Graph-aware Transformers,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.8
+355,Dyna-bAbI: unlocking bAbI's potential with dynamic synthetic benchmarking,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.9
+356,When Polysemy Matters: Modeling Semantic Categorization with Word Embeddings,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.10
+357,Word-Label Alignment for Event Detection: A New Perspective via Optimal Transport,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.11
+358,Comparison and Combination of Sentence Embeddings Derived from Different Supervision Signals,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.12
+359,Distilling Hypernymy Relations from Language Models: On the Effectiveness of Zero-Shot Taxonomy Induction,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.13
+360,"A Dynamic, Interpreted CheckList for Meaning-oriented NLG Metric Evaluation -- through the Lens of Semantic Similarity Rating",2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.14
+361,Assessing the Limits of the Distributional Hypothesis in Semantic Spaces: Trait-based Relational Knowledge and the Impact of Co-occurrences,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.15
+362,A Generative Approach for Mitigating Structural Biases in Natural Language Inference,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.16
+363,Measuring Alignment Bias in Neural Seq2seq Semantic Parsers,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.17
+364,Improved Induction of Narrative Chains via Cross-Document Relations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.18
+365,DRS Parsing as Sequence Labeling,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.19
+366,How Does Data Corruption Affect Natural Language Understanding Models? A Study on GLUE datasets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.20
+367,Leveraging Three Types of Embeddings from Masked Language Models in Idiom Token Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.21
+368,``What makes a question inquisitive?'' A Study on Type-Controlled Inquisitive Question Generation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.22
+369,Pretraining on Interactions for Learning Grounded Affordance Representations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.23
+370,"PropBank Comes of Age---Larger, Smarter, and more Diverse",2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.24
+371,Speech acts and Communicative Intentions for Urgency Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.25
+372,"What Drives the Use of Metaphorical Language? Negative Insights from Abstractness, Affect, Discourse Coherence and Contextualized Word Representations",2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.26
+373,Unsupervised Reinforcement Adaptation for Class-Imbalanced Text Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.27
+374,Event Causality Identification via Generation of Important Context Words,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.28
+375,Capturing the Content of a Document through Complex Event Identification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.29
+376,Online Coreference Resolution for Dialogue Processing: Improving Mention-Linking on Real-Time Conversations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.starsem-1.30
+377,Proceedings of the Sixth Workshop on Structured Prediction for NLP,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spnlp-1.0
+378,Multilingual Syntax-aware Language Modeling through Dependency Tree Conversion,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spnlp-1.1
+379,Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spnlp-1.2
+380,TempCaps: A Capsule Network-based Embedding Model for Temporal Knowledge Graph Completion,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spnlp-1.3
+381,SlotGAN: Detecting Mentions in Text via Adversarial Distant Learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spnlp-1.4
+382,A Joint Learning Approach for Semi-supervised Neural Topic Modeling,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spnlp-1.5
+383,Neural String Edit Distance,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spnlp-1.6
+384,Predicting Attention Sparsity in Transformers,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spnlp-1.7
+385,Proceedings of the 1st Workshop on Semiparametric Methods in NLP: Decoupling Logic from Knowledge,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spanlp-1.0
+386,Improving Discriminative Learning for Zero-Shot Relation Extraction,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spanlp-1.1
+387,Choose Your QA Model Wisely: A Systematic Study of Generative and Extractive Readers for Question Answering,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spanlp-1.2
+388,Efficient Machine Translation Domain Adaptation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spanlp-1.3
+389,Field Extraction from Forms with Unlabeled Data,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spanlp-1.4
+390,Knowledge Base Index Compression via Dimensionality and Precision Reduction,2022,Association for Computational Linguistics,https://aclanthology.org/2022.spanlp-1.5
+391,Proceedings of the Tenth International Workshop on Natural Language Processing for Social Media,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.0
+392,Mask and Regenerate: A Classifier-based Approach for Unpaired Sentiment Transformation of Reviews for Electronic Commerce Websites.,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.1
+393,Exploiting Social Media Content for Self-Supervised Style Transfer,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.2
+394,Detecting Rumor Veracity with Only Textual Information by Double-Channel Structure,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.3
+395,Leveraging Dependency Grammar for Fine-Grained Offensive Language Detection using Graph Convolutional Networks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.4
+396,A Comparative Study on Word Embeddings and Social NLP Tasks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.5
+397,Identifying Human Needs through Social Media: A study on Indian cities during COVID-19,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.6
+398,Towards Toxic Positivity Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.7
+399,OK Boomer: Probing the socio-demographic Divide in Echo Chambers,2022,Association for Computational Linguistics,https://aclanthology.org/2022.socialnlp-1.8
+400,"Proceedings of The Seventh Workshop on Social Media Mining for Health Applications, Workshop \& Shared Task",2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.0
+401,RACAI@SMM4H'22: Tweets Disease Mention Detection Using a Neural Lateral Inhibitory Mechanism,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.1
+402,PingAnTech at SMM4H task1: Multiple pre-trained model approaches for Adverse Drug Reactions,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.2
+403,dezzai@SMM4H'22: Tasks 5 \& 10 - Hybrid models everywhere,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.3
+404,zydhjh4593@SMM4H'22: A Generic Pre-trained BERT-based Framework for Social Media Health Text Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.4
+405,MANTIS at SMM4H'2022: Pre-Trained Language Models Meet a Suite of Psycholinguistic Features for the Detection of Self-Reported Chronic Stress,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.5
+406,NLP-CIC-WFU at SocialDisNER: Disease Mention Extraction in Spanish Tweets Using Transfer Learning and Search by Propagation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.6
+407,yiriyou@SMM4H'22: Stance and Premise Classification in Domain Specific Tweets with Dual-View Attention Neural Networks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.7
+408,SINAI@SMM4H'22: Transformers for biomedical social media text mining in Spanish,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.8
+409,BOUN-TABI@SMM4H'22: Text-to-Text Adverse Drug Event Extraction with Data Balancing and Prompting,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.9
+410,uestcc@SMM4H'22: RoBERTa based Adverse Drug Events Classification on Tweets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.10
+411,Zhegu@SMM4H-2022: The Pre-training Tweet \& Claim Matching Makes Your Prediction Better,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.11
+412,MaNLP@SMM4H'22: BERT for Classification of Twitter Posts,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.12
+413,John\_Snow\_Labs@SMM4H'22: Social Media Mining for Health (\#SMM4H) with Spark NLP,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.13
+414,READ-BioMed@SocialDisNER: Adaptation of an Annotation System to Spanish Tweets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.14
+415,PLN CMM at SocialDisNER: Improving Detection of Disease Mentions in Tweets by Using Document-Level Features,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.15
+416,CLaCLab at SocialDisNER: Using Medical Gazetteers for Named-Entity Recognition of Disease Mentions in Spanish Tweets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.16
+417,CIC NLP at SMM4H 2022: a BERT-based approach for classification of social media forum posts,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.17
+418,NCUEE-NLP@SMM4H'22: Classification of Self-reported Chronic Stress on Twitter Using Ensemble Pre-trained Transformer Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.18
+419,BioInfo@UAVR@SMM4H'22: Classification and Extraction of Adverse Event mentions in Tweets using Transformer Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.19
+420,FRE at SocialDisNER: Joint Learning of Language Models for Named Entity Recognition,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.20
+421,ITAINNOVA at SocialDisNER: A Transformers cocktail for disease identification in social media in Spanish,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.21
+422,mattica@SMM4H'22: Leveraging sentiment for stance \& premise joint learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.22
+423,KU\_ED at SocialDisNER: Extracting Disease Mentions in Tweets Written in Spanish,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.23
+424,"CHAAI@SMM4H'22: RoBERTa, GPT-2 and Sampling - An interesting concoction",2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.24
+425,IAI @ SocialDisNER : Catch me if you can! Capturing complex disease mentions in tweets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.25
+426,UCCNLP@SMM4H'22:Label distribution aware long-tailed learning with post-hoc posterior calibration applied to text classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.26
+427,"HaleLab\_NITK@SMM4H'22: Adaptive Learning Model for Effective Detection, Extraction and Normalization of Adverse Drug Events from Social Media Data",2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.27
+428,Yet@SMM4H'22: Improved BERT-based classification models with Rdrop and PolyLoss,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.28
+429,"Fraunhofer FKIE @ SMM4H 2022: System Description for Shared Tasks 2, 4 and 9",2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.29
+430,Transformer-based classification of premise in tweets related to COVID-19,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.30
+431,Fraunhofer SIT@SMM4H'22: Learning to Predict Stances and Premises in Tweets related to COVID-19 Health Orders Using Generative Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.31
+432,UB Health Miners@SMM4H'22: Exploring Pre-processing Techniques To Classify Tweets Using Transformer Based Pipelines.,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.32
+433,CSECU-DSG@SMM4H'22: Transformer based Unified Approach for Classification of Changes in Medication Treatments in Tweets and WebMD Reviews,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.33
+434,Innovators @ SMM4H'22: An Ensembles Approach for self-reporting of COVID-19 Vaccination Status Tweets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.34
+435,Innovators@SMM4H'22: An Ensembles Approach for Stance and Premise Classification of COVID-19 Health Mandates Tweets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.35
+436,AILAB-Udine@SMM4H'22: Limits of Transformers and BERT Ensembles,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.36
+437,AIR-JPMC@SMM4H'22: Classifying Self-Reported Intimate Partner Violence in Tweets with Multiple BERT-based Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.37
+438,"ARGUABLY@SMM4H'22: Classification of Health Related Tweets using Ensemble, Zero-Shot and Fine-Tuned Language Model",2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.38
+439,CASIA@SMM4H'22: A Uniform Health Information Mining System for Multilingual Social Media Texts,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.39
+440,"Edinburgh\_UCL\_Health@SMM4H'22: From Glove to Flair for handling imbalanced healthcare corpora related to Adverse Drug Events, Change in medication and self-reporting vaccination",2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.40
+441,KUL@SMM4H'22: Template Augmented Adaptive Pre-training for Tweet Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.41
+442,Enolp musk@SMM4H'22 : Leveraging Pre-trained Language Models for Stance And Premise Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.42
+443,AIR-JPMC@SMM4H'22: Identifying Self-Reported Spanish COVID-19 Symptom Tweets Through Multiple-Model Ensembling,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.43
+444,AIR-JPMC@SMM4H'22: BERT + Ensembling = Too Cool: Using Multiple BERT Models Together for Various COVID-19 Tweet Identification Tasks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.44
+445,CAISA@SMM4H'22: Robust Cross-Lingual Detection of Disease Mentions on Social Media with Adversarial Methods,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.45
+446,OFU@SMM4H'22: Mining Advent Drug Events Using Pretrained Language Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.46
+447,CompLx@SMM4H'22: In-domain pretrained language models for detection of adverse drug reaction mentions in English tweets,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.47
+448,"The SocialDisNER shared task on detection of disease mentions in health-relevant content from social media: methods, evaluation, guidelines and corpora",2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.48
+449,Romanian micro-blogging named entity recognition including health-related entities,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.49
+450,The Best of Both Worlds: Combining Engineered Features with Transformers for Improved Mental Health Prediction from Reddit Posts,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.50
+451,Leveraging Social Media as a Source for Clinical Guidelines: A Demarcation of Experiential Knowledge,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.51
+452,COVID-19-related Nepali Tweets Classification in a Low Resource Setting,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.52
+453,SMM4H 2022 Task 2: Dataset for stance and premise detection in tweets about health mandates related to COVID-19,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.53
+454,Overview of the Seventh Social Media Mining for Health Applications (\#SMM4H) Shared Tasks at COLING 2022,2022,Association for Computational Linguistics,https://aclanthology.org/2022.smm4h-1.54
+455,Proceedings of the Workshop on Smiling and Laughter across Contexts and the Life-span within the 13th Language Resources and Evaluation Conference,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.0
+456,Toward a Semi-Automated Scoping Review of Virtual Human Smiles,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.1
+457,Are You Smiling When I Am Speaking?,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.2
+458,"Gender Differences, Smiling, and Economic Negotiation Outcomes",2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.3
+459,A Measure of the Smiling Synchrony in the Conversational Face-to-face Interaction Corpus PACO-CHEESE,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.4
+460,Analysis of Co-Laughter Gesture Relationship on RGB Videos in Dyadic Conversation Context,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.5
+461,"You Make Me Laugh! Friends, Strangers and Neurodiversity",2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.6
+462,Intergroup Bias in Smile Discrimination in Autism,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.7
+463,Inhalation Noises as Endings of Laughs in Conversational Speech,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.8
+464,Are There Any Body-movement Differences between Women and Men When They Laugh?,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.9
+465,Laughter During Cooperative and Competitive Games,2022,European Language Resources Association,https://aclanthology.org/2022.smila-1.10
+466,Proceedings of the 7th International Workshop on Sign Language Translation and Avatar Technology: The Junction of the Visual and the Textual: Challenges and Perspectives,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.0
+467,Synthesis for the Kinematic Control of Identity in Sign Language,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.1
+468,Analysis of Torso Movement for Signing Avatar Using Deep Learning,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.2
+469,Isolated Sign Recognition using ASL Datasets with Consistent Text-based Gloss Labeling and Curriculum Learning,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.3
+470,Example-based Multilinear Sign Language Generation from a Hierarchical Representation,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.4
+471,Fine-tuning of Convolutional Neural Networks for the Recognition of Facial Expressions in Sign Language Video Samples,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.5
+472,Signing Avatar Performance Evaluation within EASIER Project,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.6
+473,Improving Signer Independent Sign Language Recognition for Low Resource Languages,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.7
+474,Improved Facial Realism through an Enhanced Representation of Anatomical Behavior in Sign Language Avatars,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.8
+475,KoSign Sign Language Translation Project: Introducing The NIASL2021 Dataset,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.9
+476,A Novel Approach to Managing Lower Face Complexity in Signing Avatars,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.10
+477,A Software Toolkit for Pre-processing Sign Language Video Streams,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.11
+478,Greek Sign Language Recognition for the SL-ReDu Learning Platform,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.12
+479,Signing Avatars in a New Dimension: Challenges and Opportunities in Virtual Reality,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.13
+480,Mouthing Recognition with OpenPose in Sign Language,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.14
+481,Skeletal Graph Self-Attention: Embedding a Skeleton Inductive Bias into Sign Language Production,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.15
+482,Multi-track Bottom-Up Synthesis from Non-Flattened AZee Scores,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.16
+483,First Steps Towards a Signing Avatar for Railway Travel Announcements in the Netherlands,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.17
+484,Changing the Representation: Examining Language Representation for Neural Sign Language Production,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.18
+485,Supporting Mouthing in Signed Languages: New innovations and a proposal for future corpus building,2022,European Language Resources Association,https://aclanthology.org/2022.sltat-1.19
+486,Ninth Workshop on Speech and Language Processing for Assistive Technologies (SLPAT-2022),2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.0
+487,Design principles of an open-source language modeling microservice package for AAC text-entry applications,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.1
+488,ColorCode: A Bayesian Approach to Augmentative and Alternative Communication with Two Buttons,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.2
+489,A glimpse of assistive technology in daily life,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.3
+490,A comparison study on patient-psychologist voice diarization,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.4
+491,Producing Standard German Subtitles for Swiss German TV Content,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.5
+492,Investigating the Medical Coverage of a Translation System into Pictographs for Patients with an Intellectual Disability,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.6
+493,On the Ethical Considerations of Text Simplification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.7
+494,Applying the Stereotype Content Model to assess disability bias in popular pre-trained NLP models underlying AI-based assistive technologies,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.8
+495,CueBot: Cue-Controlled Response Generation for Assistive Interaction Usages,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.9
+496,Challenges in assistive technology development for an endangered language: an Irish (Gaelic) perspective,2022,Association for Computational Linguistics,https://aclanthology.org/2022.slpat-1.10
+497,Proceedings of the 1st Annual Meeting of the ELRA/ISCA Special Interest Group on Under-Resourced Languages,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.0
+498,Unsupervised Word Segmentation from Discrete Speech Units in Low-Resource Settings,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.1
+499,An Open Source Web Reader for Under-Resourced Languages,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.2
+500,Text-to-Speech for Under-Resourced Languages: Phoneme Mapping and Source Language Selection in Transfer Learning,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.3
+501,ReadAlong Studio: Practical Zero-Shot Text-Speech Alignment for Indigenous Language Audiobooks,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.4
+502,Corpus Creation for Sentiment Analysis in Code-Mixed Tulu Text,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.5
+503,Crowd-sourcing for Less-resourced Languages: Lingua Libre for Polish,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.6
+504,"Tup\'\ian Language Ressources: Data, Tools, Analyses",2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.7
+505,Quality versus Quantity: Building Catalan-English MT Resources,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.8
+506,A Sentiment Corpus for South African Under-Resourced Languages in a Multilingual Context,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.9
+507,CUNI Submission to MT4All Shared Task,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.10
+508,Resource: Indicators on the Presence of Languages in Internet,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.11
+509,Language Technologies for Low Resource Languages: Sociolinguistic and Multilingual Insights,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.12
+510,Sentiment Analysis for Hausa: Classifying Students' Comments,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.13
+511,Nepali Encoder Transformers: An Analysis of Auto Encoding Transformer Language Models for Nepali Text Classification,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.14
+512,"CoSwID, a Code Switching Identification Method Suitable for Under-Resourced Languages",2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.15
+513,A Neural Network Approach to Create Minangkabau-Indonesia Bilingual Dictionary,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.16
+514,Machine Translation from Standard German to Alemannic Dialects,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.17
+515,Question Answering Classification for Amharic Social Media Community Based Questions,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.18
+516,Automatic Detection of Morphological Processes in the Yor\`ub\'a Language,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.19
+517,Evaluating Unsupervised Approaches to Morphological Segmentation for Wolastoqey,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.20
+518,"Baseline English and Maltese-English Classification Models for Subjectivity Detection, Sentiment Analysis, Emotion Analysis, Sarcasm Detection, and Irony Detection",2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.21
+519,"Building Open-source Speech Technology for Low-resource Minority Languages with S\'aMi as an Example -- Tools, Methods and Experiments",2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.22
+520,Investigating the Quality of Static Anchor Embeddings from Transformers for Under-Resourced Languages,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.23
+521,Introducing YakuToolkit. Yakut Treebank and Morphological Analyzer.,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.24
+522,A Language Model for Spell Checking of Educational Texts in Kurdish (Sorani),2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.25
+523,SimRelUz: Similarity and Relatedness Scores as a Semantic Evaluation Dataset for Uzbek Language,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.26
+524,ENRICH4ALL: A First Luxembourgish BERT Model for a Multilingual Chatbot,2022,European Language Resources Association,https://aclanthology.org/2022.sigul-1.27
+525,Proceedings of the 4th Workshop on Research in Computational Linguistic Typology and Multilingual NLP,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.0
+526,Multilingualism Encourages Recursion: a Transfer Study with mBERT,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.1
+527,Word-order Typology in Multilingual BERT: A Case Study in Subordinate-Clause Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.2
+528,Typological Word Order Correlations with Logistic Brownian Motion,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.3
+529,Cross-linguistic Comparison of Linguistic Feature Encoding in BERT Models for Typologically Different Languages,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.4
+530,"Tweaking UD Annotations to Investigate the Placement of Determiners, Quantifiers and Numerals in the Noun Phrase",2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.5
+531,A Database for Modal Semantic Typology,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.6
+532,The SIGTYP 2022 Shared Task on the Prediction of Cognate Reflexes,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.7
+533,Bayesian Phylogenetic Cognate Prediction,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.8
+534,Mockingbird at the SIGTYP 2022 Shared Task: Two Types of Models for the Prediction of Cognate Reflexes,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.9
+535,A Transformer Architecture for the Prediction of Cognate Reflexes,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.10
+536,Approaching Reflex Predictions as a Classification Problem Using Extended Phonological Alignments,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.11
+537,Investigating Information-Theoretic Properties of the Typology of Spatial Demonstratives,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.12
+538,How Universal is Metonymy? Results from a Large-Scale Multilingual Analysis,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.13
+539,PaVeDa - Pavia Verbs Database: Challenges and Perspectives,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.14
+540,ParaNames: A Massively Multilingual Entity Name Corpus,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigtyp-1.15
+541,Proceedings of the LREC2022 10th Workshop on the Representation and Processing of Sign Languages: Multilingual Sign Language Resources,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.0
+542,PeruSIL: A Framework to Build a Continuous Peruvian Sign Language Interpretation Dataset,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.1
+543,Introducing Sign Languages to a Multilingual Wordnet: Bootstrapping Corpora and Lexical Resources of Greek Sign Language and German Sign Language,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.2
+544,Introducing the signglossR Package,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.3
+545,Moving towards a Functional Approach in the Flemish Sign Language Dictionary Making Process,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.4
+546,Phonetics of Negative Headshake in Russian Sign Language: A Small-Scale Corpus Study,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.5
+547,Documenting the Use of Iranian Sign Language (ZEI) in Kermanshah,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.6
+548,Applying the Transcription System Typannot to Mouth Gestures,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.7
+549,"Libras Portal: A Way of Documentation, a Way of Sharing",2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.8
+550,Representation and Synthesis of Geometric Relocations,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.9
+551,Sign Language Phonetic Annotator-Analyzer: Open-Source Software for Form-Based Analysis of Sign Languages,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.10
+552,ASL-Homework-RGBD Dataset: An Annotated Dataset of 45 Fluent and Non-fluent Signers Performing American Sign Language Homeworks,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.11
+553,MY DGS -- ANNIS: ANNIS and the Public DGS Corpus,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.12
+554,Outreach and Science Communication in the DGS-Korpus Project: Accessibility of Data and the Benefit of Interactive Exchange between Communities,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.13
+555,MC-TRISLAN: A Large 3D Motion Capture Sign Language Data-set,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.14
+556,A Machine Learning-based Segmentation Approach for Measuring Similarity between Sign Languages,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.15
+557,The Sign Language Dataset Compendium: Creating an Overview of Digital Linguistic Resources,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.16
+558,"Making Sign Language Corpora Comparable: A Study of Palm-Up and Throw-Away in Polish Sign Language, German Sign Language, and Russian Sign Language",2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.17
+559,Open Repository of the Polish Sign Language Corpus: Publication Project of the Polish Sign Language Corpus,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.18
+560,Functional Data Analysis of Non-manual Marking of Questions in Kazakh-Russian Sign Language,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.19
+561,Two New AZee Production Rules Refining Multiplicity in French Sign Language,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.20
+562,Language Planning in Action: Depiction as a Driver of New Terminology in Irish Sign Language,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.21
+563,Facilitating the Spread of New Sign Language Technologies across Europe,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.22
+564,ISL-LEX v.1: An Online Lexical Resource of Israeli Sign Language,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.23
+565,Towards Large Vocabulary Kazakh-Russian Sign Language Dataset: KRSL-OnlineSchool,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.24
+566,Towards Semi-automatic Sign Language Annotation Tool: SLAN-tool,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.25
+567,"Resources for Computer-Based Sign Recognition from Video, and the Criticality of Consistency of Gloss Labeling across Multiple Large ASL Video Corpora",2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.26
+568,Signed Language Transcription and the Creation of a Cross-linguistic Comparative Database,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.27
+569,Integrating Auslan Resources into the Language Data Commons of Australia,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.28
+570,Capturing Distalization,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.29
+571,The Corpus of Israeli Sign Language,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.30
+572,Segmentation of Signs for Research Purposes: Comparing Humans and Machines,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.31
+573,Sign Language Video Anonymization,2022,European Language Resources Association,https://aclanthology.org/2022.signlang-1.32
+574,"Proceedings of the 19th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology",2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.0
+575,On Building Spoken Language Understanding Systems for Low Resourced Languages,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.1
+576,Unsupervised morphological segmentation in a language with reduplication,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.2
+577,Investigating phonological theories with crowd-sourced data: The Inventory Size Hypothesis in the light of Lingua Libre,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.3
+578,Logical Transductions for the Typology of Ditransitive Prosody,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.4
+579,A Masked Segmental Language Model for Unsupervised Natural Language Segmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.5
+580,Trees probe deeper than strings: an argument from allomorphy,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.6
+581,Subword-based Cross-lingual Transfer of Embeddings from Hindi to Marathi and Nepali,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.7
+582,Multidimensional acoustic variation in vowels across English dialects,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.8
+583,Domain-Informed Probing of wav2vec 2.0 Embeddings for Phonetic Features,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.9
+584,Morphotactic Modeling in an Open-source Multi-dialectal Arabic Morphological Analyzer and Generator,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.10
+585,The SIGMORPHON 2022 Shared Task on Morpheme Segmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.11
+586,Sharing Data by Language Family: Data Augmentation for Romance Language Morpheme Segmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.12
+587,SIGMORPHON 2022 Shared Task on Morpheme Segmentation Submission Description: Sequence Labelling for Word-Level Morpheme Segmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.13
+588,Beyond Characters: Subword-level Morpheme Segmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.14
+589,Word-level Morpheme segmentation using Transformer neural network,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.15
+590,Morfessor-enriched features and multilingual training for canonical morphological segmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.16
+591,JB132 submission to the SIGMORPHON 2022 Shared Task 3 on Morphological Segmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.17
+592,SIGMORPHON--UniMorph 2022 Shared Task 0: Modeling Inflection in Language Acquisition,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.18
+593,SIGMORPHON--UniMorph 2022 Shared Task 0: Generalization and Typologically Diverse Morphological Inflection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.19
+594,SIGMORPHON 2022 Task 0 Submission Description: Modelling Morphological Inflection with Data-Driven and Rule-Based Approaches,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.20
+595,CLUZH at SIGMORPHON 2022 Shared Tasks on Morpheme Segmentation and Inflection Generation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.21
+596,OSU at SigMorphon 2022: Analogical Inflection With Rule Features,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.22
+597,Generalizing Morphological Inflection Systems to Unseen Lemmas,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.23
+598,HeiMorph at SIGMORPHON 2022 Shared Task on Morphological Acquisition Trajectories,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.24
+599,Morphology is not just a naive Bayes -- UniMelb Submission to SIGMORPHON 2022 ST on Morphological Inflection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigmorphon-1.25
+600,Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.0
+601,Post-processing Networks: Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.1
+602,Reducing Model Churn: Stable Re-training of Conversational Agents,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.2
+603,Knowledge-Grounded Conversational Data Augmentation with Generative Conversational Networks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.3
+604,Guiding the Release of Safer E2E Conversational AI through Value Sensitive Design,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.4
+605,Controllable User Dialogue Act Augmentation for Dialogue State Tracking,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.5
+606,Developing an argument annotation scheme based on a semantic classification of arguments,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.6
+607,Multi-Task Learning for Depression Detection in Dialogs,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.7
+608,To laugh or not to laugh? The use of laughter to mark discourse structure,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.8
+609,QualityAdapt: an Automatic Dialogue Quality Estimation Framework,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.9
+610,Graph Neural Network Policies and Imitation Learning for Multi-Domain Task-Oriented Dialogues,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.10
+611,The DialPort tools,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.11
+612,Simultaneous Job Interview System Using Multiple Semi-autonomous Agents,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.12
+613,Dialog Acts for Task Driven Embodied Agents,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.13
+614,Symbol and Communicative Grounding through Object Permanence with a Mobile Robot,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.14
+615,Towards Personality-Aware Chatbots,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.15
+616,Towards Socially Intelligent Agents with Mental State Transition and Human Value,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.16
+617,Automatic Verbal Depiction of a Brick Assembly for a Robot Instructing Humans,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.17
+618,Are Interaction Patterns Helpful for Task-Agnostic Dementia Detection? An Empirical Exploration,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.18
+619,EDU-AP: Elementary Discourse Unit based Argument Parser,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.19
+620,Using Transition Duration to Improve Turn-taking in Conversational Agents,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.20
+621,DG2: Data Augmentation Through Document Grounded Dialogue Generation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.21
+622,When can I Speak? Predicting initiation points for spoken dialogue agents,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.22
+623,Using Interaction Style Dimensions to Characterize Spoken Dialog Corpora,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.23
+624,Multi-Domain Dialogue State Tracking with Top-K Slot Self Attention,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.24
+625,Building a Knowledge-Based Dialogue System with Text Infilling,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.25
+626,Generating Meaningful Topic Descriptions with Sentence Embeddings and LDA,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.26
+627,How Well Do You Know Your Audience? Toward Socially-aware Question Generation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.27
+628,GenTUS: Simulating User Behaviour and Language in Task-oriented Dialogues with Generative Transformers,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.28
+629,AARGH! End-to-end Retrieval-Generation for Task-Oriented Dialog,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.29
+630,A Systematic Evaluation of Response Selection for Open Domain Dialogue,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.30
+631,Inferring Ranked Dialog Flows from Human-to-Human Conversations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.31
+632,Structured Dialogue Discourse Parsing,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.32
+633,``Do you follow me?'': A Survey of Recent Approaches in Dialogue State Tracking,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.33
+634,MultiWOZ 2.4: A Multi-Domain Task-Oriented Dialogue Dataset with Essential Annotation Corrections to Improve State Tracking Evaluation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.34
+635,The Duration of a Turn Cannot be Used to Predict When It Ends,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.35
+636,Getting Better Dialogue Context for Knowledge Identification by Leveraging Document-level Topic Shift,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.36
+637,"Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent",2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.37
+638,DeepCon: An End-to-End Multilingual Toolkit for Automatic Minuting of Multi-Party Dialogues,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.38
+639,ICM : Intent and Conversational Mining from Conversation Logs,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.39
+640,Entity-based De-noising Modeling for Controllable Dialogue Summarization,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.40
+641,iEval: Interactive Evaluation Framework for Open-Domain Empathetic Chatbots,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.41
+642,Unsupervised Domain Adaptation on Question-Answering System with Conversation Data,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.42
+643,UniDU: Towards A Unified Generative Dialogue Understanding Framework,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.43
+644,Advancing Semi-Supervised Task Oriented Dialog Systems by JSA Learning of Discrete Latent Variable Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.44
+645,Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.45
+646,Dialogue Evaluation with Offline Reinforcement Learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.46
+647,Disruptive Talk Detection in Multi-Party Dialogue within Collaborative Learning Environments with a Regularized User-Aware Network,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.47
+648,Generating Discourse Connectives with Pre-trained Language Models: Conditioning on Discourse Relations Helps Reconstruct the PDTB,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.48
+649,Toward Self-Learning End-to-End Task-oriented Dialog Systems,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.49
+650,Combining Structured and Unstructured Knowledge in an Interactive Search Dialogue System,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.50
+651,How Much Does Prosody Help Turn-taking? Investigations using Voice Activity Projection Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.51
+652,What makes you change your mind? An empirical investigation in online group decision-making conversations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.52
+653,Dialogue Term Extraction using Transfer Learning and Topological Data Analysis,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.53
+654,Evaluating N-best Calibration of Natural Language Understanding for Dialogue Systems,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.54
+655,LAD: Language Models as Data for Zero-Shot Dialog,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.55
+656,Improving Bot Response Contradiction Detection via Utterance Rewriting,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.56
+657,Comparison of Lexical Alignment with a Teachable Robot in Human-Robot and Human-Human-Robot Interactions,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.57
+658,TREND: Trigger-Enhanced Relation-Extraction Network for Dialogues,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.58
+659,User Satisfaction Modeling with Domain Adaptation in Task-oriented Dialogue Systems,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.59
+660,N-best Response-based Analysis of Contradiction-awareness in Neural Response Generation Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.60
+661,A Visually-Aware Conversational Robot Receptionist,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.61
+662,Demonstrating EMMA: Embodied MultiModal Agent for Language-guided Action Execution in 3D Simulated Environments,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.62
+663,GRILLBot: A multi-modal conversational agent for complex real-world tasks,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.63
+664,A System For Robot Concept Learning Through Situated Dialogue,2022,Association for Computational Linguistics,https://aclanthology.org/2022.sigdial-1.64
+665,Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022),2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.0
+666,Semeval-2022 Task 1: CODWOE -- Comparing Dictionaries and Word Embeddings,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.1
+667,"1Cademy at Semeval-2022 Task 1: Investigating the Effectiveness of Multilingual, Multitask, and Language-Agnostic Tricks for the Reverse Dictionary Task",2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.2
+668,BLCU-ICALL at SemEval-2022 Task 1: Cross-Attention Multitasking Framework for Definition Modeling,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.3
+669,LingJing at SemEval-2022 Task 1: Multi-task Self-supervised Pre-training for Multilingual Reverse Dictionary,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.4
+670,IRB-NLP at SemEval-2022 Task 1: Exploring the Relationship Between Words and Their Semantic Representations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.5
+671,TLDR at SemEval-2022 Task 1: Using Transformers to Learn Dictionaries and Representations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.6
+672,MMG at SemEval-2022 Task 1: A Reverse Dictionary approach based on a review of the dataset from a lexicographic perspective,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.7
+673,Edinburgh at SemEval-2022 Task 1: Jointly Fishing for Word Embeddings and Definitions,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.8
+674,RIGA at SemEval-2022 Task 1: Scaling Recurrent Neural Networks for CODWOE Dictionary Modeling,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.9
+675,Uppsala University at SemEval-2022 Task 1: Can Foreign Entries Enhance an English Reverse Dictionary?,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.10
+676,BL.Research at SemEval-2022 Task 1: Deep networks for Reverse Dictionary using embeddings and LSTM autoencoders,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.11
+677,JSI at SemEval-2022 Task 1: CODWOE - Reverse Dictionary: Monolingual and cross-lingual approaches,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.12
+678,SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.13
+679,Helsinki-NLP at SemEval-2022 Task 2: A Feature-Based Approach to Multilingual Idiomaticity Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.14
+680,Hitachi at SemEval-2022 Task 2: On the Effectiveness of Span-based Classification Approaches for Multilingual Idiomaticity Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.15
+681,UAlberta at SemEval 2022 Task 2: Leveraging Glosses and Translations for Multilingual Idiomaticity Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.16
+682,HYU at SemEval-2022 Task 2: Effective Idiomaticity Detection with Consideration at Different Levels of Contextualization,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.17
+683,drsphelps at SemEval-2022 Task 2: Learning idiom representations using BERTRAM,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.18
+684,JARVix at SemEval-2022 Task 2: It Takes One to Know One? Idiomaticity Detection using Zero and One-Shot Learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.19
+685,CardiffNLP-Metaphor at SemEval-2022 Task 2: Targeted Fine-tuning of Transformer-based Language Models for Idiomaticity Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.20
+686,kpfriends at SemEval-2022 Task 2: NEAMER - Named Entity Augmented Multi-word Expression Recognizer,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.21
+687,daminglu123 at SemEval-2022 Task 2: Using BERT and LSTM to Do Text Classification,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.22
+688,HiJoNLP at SemEval-2022 Task 2: Detecting Idiomaticity of Multiword Expressions using Multilingual Pretrained Language Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.23
+689,ZhichunRoad at SemEval-2022 Task 2: Adversarial Training and Contrastive Learning for Multiword Representations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.24
+690,NER4ID at SemEval-2022 Task 2: Named Entity Recognition for Idiomaticity Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.25
+691,YNU-HPCC at SemEval-2022 Task 2: Representing Multilingual Idiomaticity based on Contrastive Learning,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.26
+692,OCHADAI at SemEval-2022 Task 2: Adversarial Training for Multilingual Idiomaticity Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.27
+693,HIT at SemEval-2022 Task 2: Pre-trained Language Model for Idioms Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.28
+694,SemEval-2022 Task 3: PreTENS-Evaluating Neural Networks on Presuppositional Semantic Knowledge,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.29
+695,LingJing at SemEval-2022 Task 3: Applying DeBERTa to Lexical-level Presupposed Relation Taxonomy with Knowledge Transfer,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.30
+696,RUG-1-Pegasussers at SemEval-2022 Task 3: Data Generation Methods to Improve Recognizing Appropriate Taxonomic Word Relations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.31
+697,CSECU-DSG at SemEval-2022 Task 3: Investigating the Taxonomic Relationship Between Two Arguments using Fusion of Multilingual Transformer Models,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.32
+698,UoR-NCL at SemEval-2022 Task 3: Fine-Tuning the BERT-Based Models for Validating Taxonomic Relations,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.33
+699,SPDB Innovation Lab at SemEval-2022 Task 3: Recognize Appropriate Taxonomic Relations Between Two Nominal Arguments with ERNIE-M Model,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.34
+700,UU-Tax at SemEval-2022 Task 3: Improving the generalizability of language models for taxonomy classification through data augmentation,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.35
+701,"KaMiKla at SemEval-2022 Task 3: AlBERTo, BERT, and CamemBERT---Be(r)tween Taxonomy Detection and Prediction",2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.36
+702,HW-TSC at SemEval-2022 Task 3: A Unified Approach Fine-tuned on Multilingual Pretrained Model for PreTENS,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.37
+703,SemEval-2022 Task 4: Patronizing and Condescending Language Detection,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.38
+704,JUST-DEEP at SemEval-2022 Task 4: Using Deep Learning Techniques to Reveal Patronizing and Condescending Language,2022,Association for Computational Linguistics,https://aclanthology.org/2022.semeval-1.39
