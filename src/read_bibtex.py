@@ -18,4 +18,4 @@ df = pd.DataFrame({
     'url': urls
 })
 
-df.to_csv(os.path.dirname(__file__) + '/../data/raw/all_papers.csv')
+df.to_csv(os.path.dirname(__file__) + '/../data/raw/all_papers.csv', index=False)
