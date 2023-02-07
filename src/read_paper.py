@@ -2,6 +2,7 @@ import io
 import os
 
 import requests
+import matplotlib.pyplot as plt
 import PyPDF2
 import pandas as pd
 
@@ -24,12 +25,35 @@ def find_full_text(paper_url):
     return contents
 
 
+def count_keywords(text_sections, keywords):
+    count_list = []
+    for section in text_sections:
+        keyword_count = [1 if any(keyword in text for keyword in keywords)
+                         else 0 for text in section]
+        count_list.append(sum(keyword_count))
+    return count_list
+
+
+def generate_list_by_keywords(text_sections, url_sections, keywords):
+    url_list = []
+    for year in range(len(text_sections)):
+        section = text_sections[year]
+        url_section = url_sections[year]
+        keyword_count = [1 if any(keyword in text for keyword in keywords)
+                         else 0 for text in section]
+        url_list.extend(url_section[i] for i in range(len(section)) if keyword_count[i])
+    return url_list
+
+
 if __name__ == '__main__':
+    years = [f'20{i:02d}' for i in range(0, 23)]
     conferences = ['.acl-', '.emnlp-', '.naacl-', '.inlg-']
     conference_ids = ['/P', '/D', '/N', '/W']
     testing_keywords = ['BLEU', 'Perplexity', 'perplexity', 'CONAN',
-                        'SBIC', 'D-1', 'D-2', 'MTLD', 'MATTR', 'METEOR', 'ROUGE']
-    human_eval_keywords = ['human evaluation', 'Turk']
+                        'SBIC', 'D-1', 'D-2', 'MTLD', 'MATTR', 'METEOR',
+                        'ROUGE', 'NIST', 'BERT', 'GLUE']
+    human_eval_keywords = ['human evaluation', 'Amazon Mechanical Turk', 'human rating']
+    # human_eval_keywords = ['Amazon Mechanical Turk']
 
     df = pd.read_csv(os.path.dirname(__file__) + '/../data/raw/all_papers.csv')
 
@@ -53,34 +77,34 @@ if __name__ == '__main__':
         temp = [url for url in paper_in_conferences if style_1 in url or style_2 in url]
         paper_by_years.append(temp)
 
-    count = 0
+    urls_by_years = []
+    text_by_years = []
     for papers in paper_by_years:
         texts = []
+        urls = []
         for paper in papers:
             try:
                 texts.append(find_full_text(paper))
-            except:
-                print('Error raised when reading text')
-        testing_involved = [1 if any(testing_keyword in text for testing_keyword in testing_keywords)
-                            else 0 for text in texts]
-        human_involved = [1 if any(human_eval_keyword in text for human_eval_keyword in human_eval_keywords)
-                          else 0 for text in texts]
-        test_res = sum(testing_involved)
-        human_eval_res = sum(human_involved)
-        print(f'============================Year20{count:02d}===================================')
-        print('# of papers having automatic testing: ', test_res)
-        print('# of papers have human evals: ', human_eval_res)
-        if test_res != 0:
-            print('Proportion: ', (sum(human_involved) / sum(testing_involved)))
-        else:
-            print('Proportion: ', 0)
-        count += 1
 
-    # texts = []
-    # for i in range(50):
-    #     texts.append(find_full_text(urls[i]))
-    #     print('finished ', i)
-    # testing_involved = [1 if any(testing_keyword in text for testing_keyword in testing_keywords)
-    #                     else 0 for text in texts]
-    # human_involved = [1 if any(human_eval_keyword in text for human_eval_keyword in human_eval_keywords)
-    #                   else 0 for text in texts]
+                urls.append(paper)
+            except:
+                print('Errors raised when reading text')
+        text_by_years.append(texts)
+        urls_by_years.append(urls)
+        # testing_involved = [1 if any(testing_keyword in text for testing_keyword in testing_keywords)
+        #                     else 0 for text in texts]
+        # human_involved = [1 if any(human_eval_keyword in text for human_eval_keyword in human_eval_keywords)
+        #                   else 0 for text in texts]
+        # test_res = sum(testing_involved)
+        # human_eval_res = sum(human_involved)
+        # print(f'============================Year===================================')
+        # print('# of papers: ', len(texts))
+        # print('# of papers having automatic testing: ', test_res)
+        # print('# of papers have human evals: ', human_eval_res)
+        # if test_res != 0:
+        #     print('Proportion: ', (sum(human_involved) / sum(testing_involved)))
+        # else:
+        #     print('Proportion: ', 0)
+
+    auto_testing = count_keywords(text_by_years, testing_keywords)
+    human_eval = count_keywords(text_by_years, human_eval_keywords)

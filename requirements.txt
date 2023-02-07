@@ -3,3 +3,4 @@ requests
 bibtexparser
 pandas
 PyPDF2
+matplotlib
