@@ -5,6 +5,7 @@ import requests
 import matplotlib.pyplot as plt
 import PyPDF2
 import pandas as pd
+import pprint
 
 
 def find_full_text(paper_url):
@@ -45,20 +46,44 @@ def generate_list_by_keywords(text_sections, url_sections, keywords):
     return url_list
 
 
+def fetch_texts(paper_by_years, year_mask, keyword=''):
+    urls_by_years = []
+    text_by_years = []
+    for year, papers in enumerate(paper_by_years):
+        if year not in year_mask:
+            continue
+        texts = []
+        url = []
+        for paper in papers:
+            try:
+                text = find_full_text(paper)
+                if keyword in text:
+                    texts.append(text)
+                    url.append(paper)
+            except:
+                print('Errors raised when reading text')
+        text_by_years.append(texts)
+        urls_by_years.append(url)
+    return text_by_years, urls_by_years
+
+
 if __name__ == '__main__':
     years = [f'20{i:02d}' for i in range(0, 23)]
-    conferences = ['.acl-', '.emnlp-', '.naacl-', '.inlg-']
-    conference_ids = ['/P', '/D', '/N', '/W']
+    # conferences = ['.acl-', '.emnlp-', '.naacl-', '.inlg-']
+    conferences = ['.acl-', '.emnlp-', '.naacl-']
+    # conference_ids = ['/P', '/D', '/N', '/W']
+    conference_ids = ['/P', '/D', '/N']
     testing_keywords = ['BLEU', 'Perplexity', 'perplexity', 'CONAN',
                         'SBIC', 'D-1', 'D-2', 'MTLD', 'MATTR', 'METEOR',
                         'ROUGE', 'NIST', 'BERT', 'GLUE']
-    human_eval_keywords = ['human evaluation', 'Amazon Mechanical Turk', 'human rating']
+    human_eval_keywords = ['human evaluation', 'Human Evaluation', 'Human evaluation',
+                           'Amazon Mechanical Turk', 'human rating', 'human judge']
     # human_eval_keywords = ['Amazon Mechanical Turk']
 
     df = pd.read_csv(os.path.dirname(__file__) + '/../data/raw/all_papers.csv')
 
     # Choose the papers with keyword 'Generation' in the titles
-    df_with_keyword = df.loc[df['title'].str.contains('Generation')]
+    df_with_keyword = df.loc[df['title'].str.contains('Translation')]
     urls = [url for url in df_with_keyword['url']]
 
     # Filter papers by the selected conferences
@@ -77,34 +102,13 @@ if __name__ == '__main__':
         temp = [url for url in paper_in_conferences if style_1 in url or style_2 in url]
         paper_by_years.append(temp)
 
-    urls_by_years = []
-    text_by_years = []
-    for papers in paper_by_years:
-        texts = []
-        urls = []
-        for paper in papers:
-            try:
-                texts.append(find_full_text(paper))
+    mask = [14, 15, 16, 17, 18, 19, 20, 21, 22]
+    raw_texts, raw_urls = fetch_texts(paper_by_years, mask, 'BLEU')
+    # auto_testing = count_keywords(text_by_years, testing_keywords)
+    human_eval = count_keywords(raw_texts, human_eval_keywords)
+    baseline = [len(paper_by_years[i]) for i in mask]
 
-                urls.append(paper)
-            except:
-                print('Errors raised when reading text')
-        text_by_years.append(texts)
-        urls_by_years.append(urls)
-        # testing_involved = [1 if any(testing_keyword in text for testing_keyword in testing_keywords)
-        #                     else 0 for text in texts]
-        # human_involved = [1 if any(human_eval_keyword in text for human_eval_keyword in human_eval_keywords)
-        #                   else 0 for text in texts]
-        # test_res = sum(testing_involved)
-        # human_eval_res = sum(human_involved)
-        # print(f'============================Year===================================')
-        # print('# of papers: ', len(texts))
-        # print('# of papers having automatic testing: ', test_res)
-        # print('# of papers have human evals: ', human_eval_res)
-        # if test_res != 0:
-        #     print('Proportion: ', (sum(human_involved) / sum(testing_involved)))
-        # else:
-        #     print('Proportion: ', 0)
-
-    auto_testing = count_keywords(text_by_years, testing_keywords)
-    human_eval = count_keywords(text_by_years, human_eval_keywords)
+    for i in range(len(mask)):
+        for item, url in zip(raw_texts[i], raw_urls[i]):
+            if any(keyword in item for keyword in human_eval_keywords):
+                print(url)
